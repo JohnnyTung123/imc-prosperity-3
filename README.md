@@ -20,10 +20,10 @@ For more context on the competition and detailed information about the trading e
 
 ### ✨ The Team
 
-| Name         | GitHub                                              | LinkedIn                                                |
-|--------------|-----------------------------------------------------|----------------------------------------------------------|
-| Alex Tung    | [@alextung](https://github.com/alex20030190)           | [linkedin.com/in/alextung](https://linkedin.com/in/alextung)     |
-| Johnny Tung  | [@johnnytung](https://github.com/JohnnyTung123)       | [linkedin.com/in/johnnytung](https://linkedin.com/in/johnnytung) |
+| Name         | LinkedIn                                                |
+|--------------|---------------------------------------------------------|
+| Alex Tung    | [linkedin.com/in/alextung](https://linkedin.com/in/alextung) |
+| Johnny Tung  | [linkedin.com/in/johnnytung](https://linkedin.com/in/johnnytung) |
 
 ### 🛠️ Tools
 During the competition, we utilized the following tools to help develop, test, and visualize our trading strategy.

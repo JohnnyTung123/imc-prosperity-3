@@ -1,4 +1,4 @@
-## 🐚 IMC Prosperity 3 — Team: JohnnyTung
+## 🐚 IMC Prosperity 3 (Team: JohnnyTung)
 
 This repository contains research and algorithms developed by our team for the IMC Prosperity 3 competition.
 

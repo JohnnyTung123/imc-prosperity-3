@@ -8,7 +8,7 @@ This repository contains research and algorithms developed by our team for the I
 
 #### Key Details:
 - **Initial Products**: We started by trading RAINFOREST_RESIN, KELP, and SQUID_INK in round 1. With each subsequent round, new products were introduced, adding complexity to our trading strategy.
-- **Evaluation**: After each round, our algorithm was evaluated in an independent marketplace against bot participants. We aimed to predict the bots' behavior using historical data, with the **PNL (Profit and Loss)** from this evaluation compared against other teams.
+- **Evaluation**: After each round, our algorithm was evaluated in an independent marketplace against bot participants. We aimed to predict the bots' behavior using historical data, with the PNL (Profit and Loss) from this evaluation compared against other teams.
 - **Manual Trading**: In addition to algorithmic trading, the competition also included manual trading challenges. These challenges varied in focus, and although they contributed to our overall PNL, they accounted for only a small fraction of our total performance.
 
 For more context on the competition and detailed information about the trading environment, feel free to consult the [Prosperity 3 Wiki](https://imc-prosperity.notion.site/Prosperity-3-Wiki-19ee8453a09380529731c4e6fb697ea4).

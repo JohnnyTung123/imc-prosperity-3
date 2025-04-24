@@ -1,4 +1,4 @@
-## 🐚 IMC Prosperity 3 — Algorithmic Trading Strategy (Team: JohnnyTung)
+## 🐚 IMC Prosperity 3 — Team: JohnnyTung
 
 This repository contains research and algorithms developed by our team for the IMC Prosperity 3 competition.
 
@@ -22,8 +22,8 @@ For more context on the competition and detailed information about the trading e
 
 | Name         | GitHub                                              | LinkedIn                                                |
 |--------------|-----------------------------------------------------|----------------------------------------------------------|
-| Alex Tung    | [@alextung](https://github.com/alextung)           | [linkedin.com/in/alextung](https://linkedin.com/in/alextung)     |
-| Johnny Tung  | [@johnnytung](https://github.com/johnnytung)       | [linkedin.com/in/johnnytung](https://linkedin.com/in/johnnytung) |
+| Alex Tung    | [@alextung](https://github.com/alex20030190)           | [linkedin.com/in/alextung](https://linkedin.com/in/alextung)     |
+| Johnny Tung  | [@johnnytung](https://github.com/JohnnyTung123)       | [linkedin.com/in/johnnytung](https://linkedin.com/in/johnnytung) |
 
 ### 🛠️ Tools
 During the competition, we utilized the following tools to help develop, test, and visualize our trading strategy.

@@ -1,6 +1,6 @@
 ## 🐚 IMC Prosperity 3 — Algorithmic Trading Strategy (Team: JohnnyTung)
 
-This repository contains the research, code, and algorithmic trading strategies developed by our team for the IMC Prosperity 3 competition.
+This repository contains research and algorithms developed by our team for the IMC Prosperity 3 competition.
 
 ### 🏆 The Competition
 

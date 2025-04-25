@@ -35,3 +35,6 @@ During the competition, we utilized the following tools to help develop, test, a
 ### 🧠 Read More
 For a detailed breakdown of our strategies, insights, and takeaways from the competition, check out our write-up on Medium:
 👉 (https://link-to-your-medium-post)
+
+### 🙏 Credits
+Special thanks to [@jmerle](https://github.com/jmerle) for providing the official backtester and visualizer tools.

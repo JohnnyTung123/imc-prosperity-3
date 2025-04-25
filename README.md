@@ -22,7 +22,7 @@ For more context on the competition and detailed information about the trading e
 
 | Name         | LinkedIn                                                |
 |--------------|---------------------------------------------------------|
-| Alex Tung    | |N/A  |
+| Alex Tung    | [N/A] |
 | Johnny Tung  | [linkedin.com/in/johnnytung](https://www.linkedin.com/in/tung-yuen-lok/) |
 
 ### 🛠️ Tools

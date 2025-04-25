@@ -20,10 +20,10 @@ For more context on the competition and detailed information about the trading e
 
 ### ✨ The Team
 
-| Name         | 
-|--------------|
-| Alex Tung    | 
-| Johnny Tung  | 
+| Name         | Education             |
+|--------------|------------------------|
+| Alex Tung    | CUHK — Mathematics     |
+| Johnny Tung  | CUHK — Mathematics     |
 
 ### 🛠️ Tools
 During the competition, we utilized the following tools to help develop, test, and visualize our trading strategy.

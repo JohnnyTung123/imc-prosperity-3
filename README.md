@@ -34,4 +34,4 @@ During the competition, we utilized the following tools to help develop, test, a
 
 ### 🧠 Read More
 For a detailed breakdown of our strategies, insights, and takeaways from the competition, check out our write-up on Medium:
-👉 [Our IMC Prosperity 3 Strategy] (https://link-to-your-medium-post)
+👉 (https://link-to-your-medium-post)

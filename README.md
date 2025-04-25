@@ -22,7 +22,7 @@ For more context on the competition and detailed information about the trading e
 
 | Name         | LinkedIn                                                |
 |--------------|---------------------------------------------------------|
-| Alex Tung    | |
+| Alex Tung    | |N/A  |
 | Johnny Tung  | [linkedin.com/in/johnnytung](https://www.linkedin.com/in/tung-yuen-lok/) |
 
 ### 🛠️ Tools
@@ -31,3 +31,7 @@ During the competition, we utilized the following tools to help develop, test, a
 - **[Backtester](https://github.com/jmerle/imc-prosperity-3-backtester)**: A backtesting framework for testing trading strategies with historical data before submission to the dashboard.
   
 - **[Visualizer](https://jmerle.github.io/imc-prosperity-3-visualizer/)**: A tool for visualizing strategy performance, position, tracking PNL, and more during the competition.
+
+### 🧠 Read More
+For a detailed breakdown of our strategies, insights, and takeaways from the competition, check out our write-up on Medium:
+👉 [Our IMC Prosperity 3 Strategy] (https://link-to-your-medium-post)

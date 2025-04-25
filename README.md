@@ -4,10 +4,10 @@ This repository contains research and algorithms developed by our team for the I
 
 ### 🏆 The Competition
 
-**IMC Prosperity 2025** was an algorithmic trading competition that lasted over 15 days, with 12,621 teams participating globally. The challenge required us to design and implement trading algorithms for various products, such as SQUID_INK, VOLCANIC_ROCK, MAGNIFICENT_MACARONS, and more, with the goal of maximizing seashells — the underlying currency of our island.
+**IMC Prosperity 2025** was an algorithmic trading competition that lasted over 15 days, with 12,621 teams participating globally. The challenge required us to design and implement trading algorithms for various products, with the goal of maximizing seashells — the underlying currency of our island.
 
 #### Key Details:
-- **Initial Products**: We started by trading RAINFOREST_RESIN, KELP, and SQUID_INK in round 1. With each subsequent round, new products were introduced, adding complexity to our trading strategy.
+- **Initial Products**: We started by trading Rainforest Resin , Kelp, and Squid Ink in round 1. With each subsequent round, new products were introduced, adding complexity to our trading strategy.
 - **Evaluation**: After each round, our algorithm was evaluated in an independent marketplace against bot participants. We aimed to predict the bots' behavior using historical data, with the PNL (Profit and Loss) from this evaluation compared against other teams.
 - **Manual Trading**: In addition to algorithmic trading, the competition also included manual trading challenges. These challenges varied in focus, and although they contributed to our overall PNL, they accounted for only a small fraction of our total performance.
 
